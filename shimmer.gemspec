@@ -33,7 +33,7 @@ Gem::Specification.new do |spec|
 
   spec.add_dependency "andrewhao-chrome_remote", "~> 0.2.1"
   spec.add_dependency "capybara", "~> 2.16"
-  spec.add_dependency "nokogiri", "~> 1.8.1"
+  spec.add_dependency "nokogiri"
 
   spec.add_development_dependency "awesome_print"
   spec.add_development_dependency "benchmark-ips"
